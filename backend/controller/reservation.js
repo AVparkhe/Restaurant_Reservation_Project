@@ -1,5 +1,5 @@
 import ErrorHandler from "../middlewares/error.js";
-import { Reservation } from "../models/reservation.js";
+import { Reservation } from "../models/reservationSchema.js";
 
 
 const send_reservation = async (req, res, next) => {

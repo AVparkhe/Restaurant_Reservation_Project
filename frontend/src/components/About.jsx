@@ -13,13 +13,7 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+              We are committed to excellence, offering reliable and customizable options to ensure customer satisfaction. Our team works tirelessly to overcome challenges and deliver solutions that are efficient, honest, and effective. We take pride in our ability to adapt, improve, and respond to feedback, ensuring that every experience is valuable and trustworthy.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}

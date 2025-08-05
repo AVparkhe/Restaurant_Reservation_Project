@@ -5,19 +5,19 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "We are committed to delivering excellent service, standing firm against any challenges with integrity and professionalism." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "We believe in delivering not just meals, but memorable flavors. Our partnered restaurants offer a wide range of cuisines that delight your taste buds and bring joy to every bite." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Craving something delicious? We've got you covered. Our platform ensures quick and reliable food delivery, so your favorite dishes arrive hot and fresh—just the way you like them.." 
             }
         ],
         "dishes": [
@@ -100,21 +100,21 @@
             {
                 "id": 1,
                 "image": "./review1.png",
-                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "description": "There is nothing lacking in this place—balanced and composed. Free to grow, with value at its core. Designed with elegance and built for flexibility, it adapts smoothly to changing needs. With strength and grace, it thrives and brings life to every part it touches",
                 "rating": 4,
                 "userName": "Jane Cooper"
             },
             {
                 "id": 2,
                 "image": "./review2.png",
-                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "description": "With strong structure and graceful flow, it adapts confidently to every need. Designed for performance and ease, it blends style with function. Offering bold expression and smooth interaction, it enhances every experience it touches..",
                 "rating": 4.5,
                 "userName": "Esther Howard"
             },
             {
                 "id": 3,
                 "image": "./review3.png",
-                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "description": "Strong and steady, with a bold presence and graceful movement. It embraces challenges with confidence and adapts effortlessly to change. With a touch of elegance and purposeful design, it brings together comfort, style, and performance.",
                 "rating": 5,
                 "userName": "Guy Hawkins"
             }
